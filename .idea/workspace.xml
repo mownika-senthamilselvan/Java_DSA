@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be204f5b-092f-4fd8-9106-afd00ed55e9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rcursion/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/GoodPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Tree/Tree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../amazon_clone/variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../amazon_clone/variables.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../rock_paper_scissors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../rock_paper_scissors/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../rock_paper_scissors/practise.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../rock_paper_scissors/practise.html" afterDir="false" />
@@ -36,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2ab00f99-809a-4434-80b3-4762dbd9263e" />
+        <option name="url" value="https://github.com/mownika-senthamilselvan/Java_DSA_Program.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2Z4b9zr8wTL19sjx5DMn4ukc2tf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
